@@ -13,3 +13,5 @@ The Auto list is Auto define in Class Lang.
 Android mobile machine touch screen rect is full rect.
 
 Android mobile machine touch screen rect is not occluded.
+
+System machine has none NPU.
