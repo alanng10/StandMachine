@@ -23,6 +23,8 @@ The button is trigg only to switch between Keyboard Case and Mouse Case.
 
 The Keyboard shown Case alpha color to diff the 2 Case on it.
 
+The alpha color is easy enough to be diff in it spot by vision.
+
 The machine has option extern USB Mouse to be tool with Keyboard at same time.
 The Mouse and Keyboard can trigg event at same time.
 
