@@ -29,3 +29,5 @@ The extern also apply to other Type kind, include Gamepad.
 System machine has none NPU.
 
 NPU is not elementing.
+
+Stand laptop machine display aspect ratio in pixel and dimend is 16 to 9.
