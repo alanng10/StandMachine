@@ -16,7 +16,7 @@ Android mobile machine touch screen rect is not occluded.
 
 Stand desktop and laptop machine Type is built with Keyboard only.
 
-The Keyboard has Case alpha button that can is trigg to switch between
+The Keyboard has Case alpha button that can is trigg to switch between 
 Keyboard Case as default, Mouse Case, and Gamepad Case.
 
 The Keyboard has Case alpha color on it that shown the button Case.
