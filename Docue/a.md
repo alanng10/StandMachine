@@ -21,6 +21,8 @@ Keyboard Case as default and Mouse Case.
 
 The button is trigg only to switch between Keyboard Case and Mouse Case.
 
+The Mouse Case has vert and horz scroll trigg with Keyboard button.
+
 The Keyboard shown Case alpha color to diff the 2 Case on it.
 
 The alpha color is easy enough to be diff in it spot by vision.
