@@ -21,6 +21,9 @@ Keyboard Case as default, Mouse Case, and Gamepad Case.
 
 The Keyboard has Case alpha color on it that shown the button Case.
 
+The machine has option extern USB Mouse to be tool with Keyboard at same time.
+The Mouse and Keyboard can trigg event at same time.
+
 System machine has none NPU.
 
 NPU is not elementing.
