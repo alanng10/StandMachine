@@ -24,6 +24,8 @@ The Keyboard has Case alpha color on it that shown the button Case.
 The machine has option extern USB Mouse to be tool with Keyboard at same time.
 The Mouse and Keyboard can trigg event at same time.
 
+The extern also apply to other Type kind, include Gamepad.
+
 System machine has none NPU.
 
 NPU is not elementing.
