@@ -14,7 +14,7 @@ Android mobile machine touch screen rect is full rect.
 
 Android mobile machine touch screen rect is not occluded.
 
-Stand desktop and laptop machine type is built with Keyboard only.
+Stand desktop and laptop machine Type is built with Keyboard only.
 
 The Keyboard has Case alpha button that can is trigg to switch between
 Keyboard Case as default, Mouse Case, and Gamepad Case.
