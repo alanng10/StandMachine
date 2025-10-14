@@ -23,7 +23,7 @@ The button is trigg only to switch between Keyboard Case and Mouse Case.
 
 The button is trigg with space button to switch between Gamepad and Keyboard orn Mouse Case.
 
-The Keyboard has Case alpha color on it that shown the button Case.
+The Keyboard shown Case alpha color to diff the 3 Case on it.
 
 The machine has option extern USB Mouse to be tool with Keyboard at same time.
 The Mouse and Keyboard can trigg event at same time.
