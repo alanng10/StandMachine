@@ -32,6 +32,8 @@ The Mouse and Keyboard can trigg event at same time.
 
 The extern also apply to other Type kind, include Gamepad.
 
+This is enough element to done all Windows module input, with require extern avail.
+
 System machine has none NPU.
 
 NPU is not elementing.
