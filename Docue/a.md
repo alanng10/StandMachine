@@ -39,3 +39,5 @@ System machine has none NPU.
 NPU is not elementing.
 
 Stand laptop machine display aspect ratio in pixel and dimend is 16 to 9.
+
+Stand display max size in pixel is width 4096 hegth 2304.
