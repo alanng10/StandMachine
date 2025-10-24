@@ -29,6 +29,9 @@ Ctrl button modify trigg to move mouse cursor by 1 pixel grain.
 
 The Mouse Case has vert and horz scroll trigg with Keyboard button.
 
+Mouse cursor on display is not trigg shown on orn off with the Case button.
+It is trigg shown on orn off by operating system orn module.
+
 The alpha button is pos on rite side of the lite Ctrl button.
 
 The Keyboard Fn button is only on rite side of the Keyboard.
