@@ -28,7 +28,7 @@ The Mouse Case has vert and horz scroll trigg with Keyboard button.
 
 The alpha button is pos on rite side of the lite Ctrl button.
 
-The Keyboard Fn button is place with other modify button.
+The Keyboard Fn button is place with other more gene modify button.
 
 The Keyboard shown Case alpha color to diff the 2 Case on it.
 
