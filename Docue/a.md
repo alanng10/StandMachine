@@ -19,16 +19,14 @@ Stand desktop and laptop machine Type is built with Keyboard only.
 The Keyboard has Case alpha button that can is trigg to switch between
 Keyboard Case as default and Mouse Case.
 
+The Case alpha button is implone with the Keyboard Fn button single trigg.
+
 The button is trigg only to switch between Keyboard Case and Mouse Case.
 
 The Mouse Case has cursor move Keyboard button list with
 Ctrl button modify trigg to move mouse cursor by 1 pixel grain.
 
 The Mouse Case has vert and horz scroll trigg with Keyboard button.
-
-The alpha button is pos on rite side of the lite Ctrl button.
-
-The Keyboard Fn button is place with other more gene modify button.
 
 The Keyboard shown Case alpha color to diff the 2 Case on it.
 
