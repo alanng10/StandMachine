@@ -21,8 +21,8 @@ Keyboard Case as default and Mouse Case.
 
 The button is trigg only to switch between Keyboard Case and Mouse Case.
 
-The Mouse Case has 1 Keyboard button with Ctrl button modify trigg to move mouse cursor
-by 1 pixel grain.
+The Mouse Case has cursor move Keyboard button list with
+Ctrl button modify trigg to move mouse cursor by 1 pixel grain.
 
 The Mouse Case has vert and horz scroll trigg with Keyboard button.
 
