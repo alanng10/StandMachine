@@ -57,4 +57,4 @@ Stand display max size in pixel is width 4096 hegth 2304.
 
 Stand display update rate is 54 time per sec.
 
-Stand un offer VR machine. 
+Stand un offer VR machine.
