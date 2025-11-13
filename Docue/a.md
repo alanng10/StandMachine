@@ -10,6 +10,8 @@ The Auto list is connect with mobile machine through USB hub.
 
 The Auto list is Auto define in Class Lang.
 
+System machine compute is single physic core and single cary core.
+
 Android mobile machine touch screen rect is full rect.
 
 Android mobile machine touch screen rect is not occluded.
